@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Connector_Pmod")(type "KiCad")(uri "${KIPRJMOD}/Connector_Pmod.pretty")(options "")(descr ""))
+  (lib (name "EdgePads")(type "KiCad")(uri "${KIPRJMOD}/EdgePads.pretty")(options "")(descr ""))
+)
